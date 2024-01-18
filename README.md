@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nightusio&label=Profile%20views&color=0e75b6&style=flat" alt="nightusio" /> </p>
 
-- 🔭 I’m currently working on [HellHard]
+- 🔭 I’m currently working on FazeHC
+<a href="https://wakatime.com/badge/user/18cecd9c-7c54-49e8-b395-277f37515776/project/018cc102-28c5-40db-a699-a32a01402185"><img src="https://wakatime.com/badge/user/18cecd9c-7c54-49e8-b395-277f37515776/project/018cc102-28c5-40db-a699-a32a01402185.svg" alt="wakatime"></a>
 
 - 🌱 I’m currently learning **Scala**
 
