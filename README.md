@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
 <h3 align="center">i optimize stuff :3</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nightusio&label=Profile%20views&color=0e75b6&style=flat" alt="nightusio" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nightusio&label=Profile%20views&color=0e75b6&style=flat" alt="nightusio" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nightusio" alt="nightusio" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/pluginreef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pluginreef" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/pluginreef](https://www.youtube.com/@pluginreef)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pluginreef" height="30" width="40" /></a>
 <a href="https://discord.gg/V7NNKsYqJr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="V7NNKsYqJr" height="30" width="40" /></a>
 </p>
 
